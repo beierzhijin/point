@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "测评系统",
+    "navigationBarBackgroundColor": "#3779fd",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}
